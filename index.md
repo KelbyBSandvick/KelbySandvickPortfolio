@@ -57,8 +57,10 @@
 
 
 ### Coronavirus Data Visualization 
-(/pdf/sample_presentation.pdf)
-<img src="images/magicVineDrawing.jpg?raw=true"/>
+<img src="images/cv3.png?raw=true"/>
+<img src="images/cv4.png?raw=true"/>
+<img src="images/cv1.png?raw=true"/>
+<img src="images/cv2.png?raw=true"/>
 
 
 
