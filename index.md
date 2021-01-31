@@ -55,13 +55,16 @@
 
 ### Papers Written
 
-[System Specification and Design Documentation](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project System Proposal Documentation](/pdf/SystemProposal.pdf)
 
 ---
 
-[NP Complete Problem Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[System Desicn and Specification](/pdf/SystemDesign.pdf)
+
+---
+
+[NP Complete Problem Analysis](/pdf/NPProblemPaper.pdf)
+
 
 ---
 
