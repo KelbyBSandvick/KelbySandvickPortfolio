@@ -53,7 +53,7 @@ Designed in Adobe Illustrator with plans to expand into a full card set
 - Translated participants drawings into digital copies
 - Animated video and brought everyones' art together
 https://youtu.be/SN994PIem64
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/amv01.png?raw=true"/>
 
 
 ### Lavender Shape Interaction Designs
@@ -70,8 +70,8 @@ Commissioned to create a digitally designed logo which involved nature and magic
 - Digitally produced a cover of Nothing's Gonna Hurt You Baby in ProTools
 - Directed and recorded all video clips
 - Edited all video and audio 
-https://www.youtube.com/watch?v=ehgbjntPDtI
-<img src="images/mv01.png?raw=true"/>
+https://youtu.be/ehgbjntPDtI
+<img src="images/vid01.png?raw=true"/>
 
 
 
