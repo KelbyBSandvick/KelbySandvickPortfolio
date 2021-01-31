@@ -4,23 +4,23 @@
 
 ### Technical Projects
 
-[Spotify Playlist Analyzer](/sample_page)
+[Spotify Playlist Analyzer]
 <img src="images/spot01.png?raw=true"/>
 <img src="images/spot02.png?raw=true"/>
 <img src="images/spot03.png?raw=true"/>
 
 ---
-[Music Database](/pdf/sample_presentation.pdf)
+[Music Database]
 <img src="images/db01.png?raw=true"/>
 <img src="images/db02.png?raw=true"/>
 <img src="images/db03.png?raw=true"/>
 
 ---
-[Painting Program](/sample_page)
+[Painting Program]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Phone and Contacts Dialer](/pdf/sample_presentation.pdf)
+[Phone and Contacts Dialer]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -28,19 +28,19 @@
 
 ### Art Projects
 
-[Face Card Designs](/sample_page)
+[Face Card Designs]
 <img src="images/CardArt.jpg?raw=true"/>
 
 ---
-[Animated Music Video](/pdf/sample_presentation.pdf)
+[Animated Music Video]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Lavender Shape Interaction Designs](/pdf/sample_presentation.pdf)
+[Lavender Shape Interaction Designs]
 <img src="images/LavenderArt.png?raw=true"/>
 
 ---
-[Graphic Design Nature Logo](/pdf/sample_presentation.pdf)
+[Graphic Design Nature Logo]
 <img src="images/magicVineDrawing.jpg?raw=true"/>
 
 ---
