@@ -36,8 +36,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Shape Interaction Designs](/pdf/sample_presentation.pdf)
-<img src="images/LavenderArt.jpg?raw=true"/>
+[Lavender Shape Interaction Designs](/pdf/sample_presentation.pdf)
+<img src="images/LavenderArt.png?raw=true"/>
 
 ---
 [Graphic Design Nature Logo](/pdf/sample_presentation.pdf)
