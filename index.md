@@ -2,34 +2,64 @@
 
 ---
 
-### Category Name 1 
+### Technical Projects
 
-[Project 1 Title](/sample_page)
+[Spotify Playlist Analyzer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Music Database](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Painting Program](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Phone and Contacts Dialer](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Art Projects
+
+[Face Card Designs](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Animated Music Video](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Shape Interaction Designs](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Pattern Design](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 
+### Data Science Projects
 
+[Coronavirus Data Visualization](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### Papers Written
+
+[System Specification and Design Documentation](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[NP Complete Problem Analysis](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
