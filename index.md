@@ -98,7 +98,7 @@ https://youtu.be/ehgbjntPDtI
 
 
 
-## Papers Written
+## Technical Writing
 
 
 ### Project System Proposal Documentation
