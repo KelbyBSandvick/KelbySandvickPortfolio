@@ -5,15 +5,15 @@
 ### Technical Projects
 
 [Spotify Playlist Analyzer](/sample_page)
-<img src="spot01.ong?raw=true"/>
-<img src="spot02.ong?raw=true"/>
-<img src="spot03.ong?raw=true"/>
+<img src="spot01.png?raw=true"/>
+<img src="spot02.png?raw=true"/>
+<img src="spot03.png?raw=true"/>
 
 ---
 [Music Database](/pdf/sample_presentation.pdf)
-<img src="db01.ong?raw=true"/>
-<img src="db02.ong?raw=true"/>
-<img src="db03.ong?raw=true"/>
+<img src="db01.png?raw=true"/>
+<img src="db02.png?raw=true"/>
+<img src="db03.png?raw=true"/>
 
 ---
 [Painting Program](/sample_page)
