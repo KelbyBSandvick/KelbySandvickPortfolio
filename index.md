@@ -20,11 +20,8 @@
 
 
 ### Painting Program
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/painterProject.png?raw=true"/>
 
-
-### Phone and Contacts Dialer
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
