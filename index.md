@@ -29,7 +29,7 @@
 ### Art Projects
 
 [Face Card Designs](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CardArt.jpg?raw=true"/>
 
 ---
 [Animated Music Video](/pdf/sample_presentation.pdf)
@@ -37,11 +37,11 @@
 
 ---
 [Shape Interaction Designs](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LavenderArt.jpg?raw=true"/>
 
 ---
-[Pattern Design](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Graphic Design Nature Logo](/pdf/sample_presentation.pdf)
+<img src="images/magicVineDrawing.jpg?raw=true"/>
 
 ---
 
