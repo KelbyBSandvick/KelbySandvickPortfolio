@@ -71,7 +71,7 @@ Commissioned to create a digitally designed logo which involved nature and magic
 - Directed and recorded all video clips
 - Edited all video and audio 
 https://youtu.be/ehgbjntPDtI
-<img src="images/vid01.png?raw=true"/>
+<img src="images/mv1.png?raw=true"/>
 
 
 
