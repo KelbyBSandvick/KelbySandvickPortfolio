@@ -4,19 +4,19 @@
 
 ### Technical Projects
 
-[Spotify Playlist Analyzer]
+Spotify Playlist Analyzer
 <img src="images/spot01.png?raw=true"/>
 <img src="images/spot02.png?raw=true"/>
 <img src="images/spot03.png?raw=true"/>
 
 ---
-[Music Database]
+Music Database
 <img src="images/db01.png?raw=true"/>
 <img src="images/db02.png?raw=true"/>
 <img src="images/db03.png?raw=true"/>
 
 ---
-[Painting Program]
+Painting Program
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
