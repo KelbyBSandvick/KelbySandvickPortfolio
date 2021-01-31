@@ -3,7 +3,8 @@ logo: "/images/workpicture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Bachelor of Science
   <br>
-  Major in Computer Science, Minor in Interactive Art and Computing
+  Major in Computer Science, <br>
+  Minor in Interactive Art and Computing
   <br> <br>
   <a href="https://www.linkedin.com/in/kelbysandvick/">View My LinkedIn Profile</a> 
   
