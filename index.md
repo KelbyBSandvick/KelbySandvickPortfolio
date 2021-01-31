@@ -66,12 +66,12 @@ Commissioned to create a digitally designed logo which involved nature and magic
 <img src="images/magicVineDrawing.jpg?raw=true"/>
 
 
-### Animated Music Video
+### Music Video and Song Production
 - Digitally produced a cover of Nothing's Gonna Hurt You Baby in ProTools
 - Directed and recorded all video clips
 - Edited all video and audio 
 https://www.youtube.com/watch?v=ehgbjntPDtI
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mv01.png?raw=true"/>
 
 
 
