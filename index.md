@@ -107,7 +107,8 @@ Given an example project, wrote a full System Proposal including:
 - Feasability Assessments
 - Requirements Definitions
 - Requirements Modeks
-- Recommendations
+- Recommendations 
+
 [Full Paper Here](/pdf/SystemProposal.pdf)
 
 
@@ -117,12 +118,14 @@ Working from the precious example project and system proposal, whote up a full S
 - Structural Model
 - Architecture Design
 - User Interface Design
+
 [Full Paper Here](/pdf/SystemDesign.pdf)
 
 
 
 ### NP Complete Problem Analysis
 Whote an analysis of NP Completeness in Nonogram puzzles and how they are solved
+
 [Full Paper Here](/pdf/NPProblemPaper.pdf)
 
 
