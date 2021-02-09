@@ -113,8 +113,8 @@ Given an example project, wrote a full System Proposal including:
 
 
 
-### System Desicn and Specification
-Working from the precious example project and system proposal, whote up a full System Design which included: 
+### System Design and Specification
+Working from the previous example project and system proposal, wrote up a full System Design which included: 
 - Structural Model
 - Architecture Design
 - User Interface Design
@@ -124,7 +124,7 @@ Working from the precious example project and system proposal, whote up a full S
 
 
 ### NP Complete Problem Analysis
-Whote an analysis of NP Completeness in Nonogram puzzles and how they are solved
+Wrote an analysis of NP Completeness in Nonogram puzzles and how they are solved
 
 [Full Paper Here](/pdf/NPProblemPaper.pdf)
 
