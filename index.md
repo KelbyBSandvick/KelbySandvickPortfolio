@@ -20,6 +20,7 @@ Carefully designed the program and accompanying application to be as accessable 
 <img src="images/dfa1.png?raw=true"/>
 <img src="images/dfa2.png?raw=true"/>
 <img src="images/dfa3.png?raw=true"/>
+<img src="images/dfa4.png?raw=true"/>
 
 
 ### Spotify Playlist Analyzer
