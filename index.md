@@ -8,10 +8,12 @@
 
 
 ### Spotify Playlist Analyzer
-- Created a small Python application to take in the ID of a Spotify user's playlist, and return data about it
-- Used the SpotiPy API to connect with the Spotify API in order to gather data
-- Designed a small but intuitive UI for the user to interact with the program
-- Plans in the future to expand to a more fully-designed UI as well as increasing features
+Connected with the Spotify API to gain insights about a user’s music listening habits, and more information about genres associated with different artists. Implemented a simple, but intuitive UI to communicate with the application.
+Functionality includes: 
+-See a breakdown of genre occurrence rate on a user-inputted playlist based on the songs or the artists found on it.
+-Search for an artist, and see data such as associated genres and popularity
+-Get information about the overall genre(s) of a playlist based on the songs saved to it
+
 <img src="images/spot01.png?raw=true"/>
 <img src="images/spot02.png?raw=true"/>
 <img src="images/spot03.png?raw=true"/>
