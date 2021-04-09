@@ -7,6 +7,21 @@
 ## Technical Projects
 
 
+### DFA Builder and Input Verrification Website
+Created a JavaScript program that a user can build a Deterministic Finite Automaton, and test input strings for validity.
+Implemented functionality for a user to input their own DFA specifications or chose from examples which are auto-filled into the input form.
+Designed and implemented a website in HTML/CSS/JavaScript to act as an interface for a user to interact with the program
+Carefully designed the program and accompanying application to be as accessable and user-friendly as possible, implementing such features as:
+-Sample form inputs to demonstrate the expected type of input
+-Ensured appropriate levels of color contrast was used to maximize readability
+-Designed all buttons and input fields to be large enough to accomidate individuals who struggle with mouse accuracy
+-Included alternate text for all images to accomidate screen readers
+
+<img src="images/dfa1.png?raw=true"/>
+<img src="images/dfa2.png?raw=true"/>
+<img src="images/dfa3.png?raw=true"/>
+
+
 ### Spotify Playlist Analyzer
 Connected with the Spotify API to gain insights about a user’s music listening habits, and more information about genres associated with different artists. Implemented a simple, but intuitive UI to communicate with the application.
 Functionality includes: 
